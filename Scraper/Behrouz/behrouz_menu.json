@@ -1,0 +1,179 @@
+{
+  "restaurant_name": "Behrouz Biryani",
+  "restaurant_location": "Hazratganj, Lucknow",
+  "categories": [
+    "Exclusively on Behrouz",
+    "All Categories",
+    "Shahi Biryanis (Serves 1)",
+    "Dastaan-E-Kebab"
+  ],
+  "menu_count": 15,
+  "scraped_date": "2025-04-27 00:34:33",
+  "menu_items": [
+    {
+      "name": "Lazeez Bhuna Murgh Biryani (Dum Chicken Biryani - Serves 1)",
+      "description": "",
+      "regular_price": 399.0,
+      "veg_status": "Non-Veg",
+      "categories": [
+        "Shahi Biryanis (Serves 1)"
+      ],
+      "restaurant": "Behrouz Biryani",
+      "location": "Hazratganj, Lucknow"
+    },
+    {
+      "name": "Zaikedaar Paneer Biryani (Paneer Dum Biryani - Serves 1)",
+      "description": "",
+      "regular_price": 399.0,
+      "veg_status": "Veg",
+      "categories": [
+        "Shahi Biryanis (Serves 1)"
+      ],
+      "restaurant": "Behrouz Biryani",
+      "location": "Hazratganj, Lucknow"
+    },
+    {
+      "name": "Murgh Afghani Tikka Biryani (Creamy Chicken Tikka - Serves 1)",
+      "description": "",
+      "regular_price": 465.0,
+      "veg_status": "Non-Veg",
+      "categories": [
+        "Shahi Biryanis (Serves 1)"
+      ],
+      "restaurant": "Behrouz Biryani",
+      "location": "Hazratganj, Lucknow"
+    },
+    {
+      "name": "Paneer Subz Biryani (Paneer Dum and Veg Biryani - Serves 1)",
+      "description": "",
+      "regular_price": 389.0,
+      "veg_status": "Veg",
+      "categories": [
+        "Shahi Biryanis (Serves 1)"
+      ],
+      "restaurant": "Behrouz Biryani",
+      "location": "Hazratganj, Lucknow"
+    },
+    {
+      "name": "Murgh Tikka Biryani (Chicken Tikka Dum Biryani - Serves 1)",
+      "description": "",
+      "regular_price": 465.0,
+      "veg_status": "Non-Veg",
+      "categories": [
+        "Shahi Biryanis (Serves 1)"
+      ],
+      "restaurant": "Behrouz Biryani",
+      "location": "Hazratganj, Lucknow"
+    },
+    {
+      "name": "Subz-e-Biryani (Dum Veg Biryani - Serves 1)",
+      "description": "",
+      "regular_price": 379.0,
+      "veg_status": "Veg",
+      "categories": [
+        "Shahi Biryanis (Serves 1)"
+      ],
+      "restaurant": "Behrouz Biryani",
+      "location": "Hazratganj, Lucknow"
+    },
+    {
+      "name": "Tokhm-e-Biryani (Dum Egg Biryani - Serves 1)",
+      "description": "",
+      "regular_price": 379.0,
+      "veg_status": "Non-Veg",
+      "categories": [
+        "Shahi Biryanis (Serves 1)"
+      ],
+      "restaurant": "Behrouz Biryani",
+      "location": "Hazratganj, Lucknow"
+    },
+    {
+      "name": "Dum Gosht Biryani (Dum Mutton Biryani, Boneless - Serves 1)",
+      "description": "",
+      "regular_price": 569.0,
+      "veg_status": "Non-Veg",
+      "categories": [
+        "Shahi Biryanis (Serves 1)"
+      ],
+      "restaurant": "Behrouz Biryani",
+      "location": "Hazratganj, Lucknow"
+    },
+    {
+      "name": "Murgh Kefta (Chicken Meatball Kebab)",
+      "description": "",
+      "regular_price": 159.0,
+      "veg_status": "Non-Veg",
+      "categories": [
+        "Dastaan-E-Kebab"
+      ],
+      "restaurant": "Behrouz Biryani",
+      "location": "Hazratganj, Lucknow"
+    },
+    {
+      "name": "Beetroot & Peanut Kebab",
+      "description": "",
+      "regular_price": 139.0,
+      "veg_status": "Veg",
+      "categories": [
+        "Dastaan-E-Kebab"
+      ],
+      "restaurant": "Behrouz Biryani",
+      "location": "Hazratganj, Lucknow"
+    },
+    {
+      "name": "Dahi Labneh Kebab",
+      "description": "",
+      "regular_price": 149.0,
+      "veg_status": "Veg",
+      "categories": [
+        "Dastaan-E-Kebab"
+      ],
+      "restaurant": "Behrouz Biryani",
+      "location": "Hazratganj, Lucknow"
+    },
+    {
+      "name": "Falafel-E-Khaas",
+      "description": "",
+      "regular_price": 119.0,
+      "veg_status": "Veg",
+      "categories": [
+        "Dastaan-E-Kebab"
+      ],
+      "restaurant": "Behrouz Biryani",
+      "location": "Hazratganj, Lucknow"
+    },
+    {
+      "name": "Murgh Koobideh (Chicken Tikki Kebab)",
+      "description": "",
+      "regular_price": 135.0,
+      "veg_status": "Non-Veg",
+      "categories": [
+        "Dastaan-E-Kebab"
+      ],
+      "restaurant": "Behrouz Biryani",
+      "location": "Hazratganj, Lucknow"
+    },
+    {
+      "name": "Gosht-E-Galouti Kebab (Mutton Galauti Kebab)",
+      "description": "",
+      "regular_price": 299.0,
+      "veg_status": "Non-Veg",
+      "categories": [
+        "Dastaan-E-Kebab"
+      ],
+      "restaurant": "Behrouz Biryani",
+      "location": "Hazratganj, Lucknow"
+    },
+    {
+      "name": "Murgh Malai Kebab (6 Pcs)",
+      "description": "",
+      "regular_price": 399.0,
+      "veg_status": "Non-Veg",
+      "categories": [
+        "Dastaan-E-Kebab"
+      ],
+      "restaurant": "Behrouz Biryani",
+      "location": "Hazratganj, Lucknow"
+    }
+  ]
+}

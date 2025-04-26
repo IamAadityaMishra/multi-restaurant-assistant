@@ -1,0 +1,1972 @@
+{
+  "menu_items": [
+    {
+      "name": "Cheese Volcano Peppy Paneer",
+      "description": "Centre loaded with Molten Cheese & topped with peppy Paneer, Capsicum & Red Paprika\n*Contains non-edible container under the Pizza.",
+      "regular_price": 309.0,
+      "veg_status": "Veg",
+      "crust": "Cheese Volcano Crust",
+      "size": "Regular Plus",
+      "striked_price": null,
+      "categories": [
+        "Veg Pizza"
+      ]
+    },
+    {
+      "name": "Cheese Volcano Farmhouse",
+      "description": "Centre loaded with Molten Cheese & topped with Onion, Capsicum, Tomato & Grilled Mushroom\n*Contains non-edible container under the Pizza.",
+      "regular_price": 309.0,
+      "veg_status": "Veg",
+      "crust": "Cheese Volcano Crust",
+      "size": "Regular Plus",
+      "striked_price": null,
+      "categories": [
+        "Veg Pizza"
+      ]
+    },
+    {
+      "name": "Cheese Volcano Veg Paradise",
+      "description": "Centre loaded with Molten Cheese & topped with Golden Corn, Black Olives, Capsicum & Red Paprika\n*Contains non-edible container under the Pizza.",
+      "regular_price": 309.0,
+      "veg_status": "Veg",
+      "crust": "Cheese Volcano Crust",
+      "size": "Regular Plus",
+      "striked_price": null,
+      "categories": [
+        "Veg Pizza"
+      ]
+    },
+    {
+      "name": "Corn & Cheese Volcano",
+      "description": "Centre loaded with Molten Cheese & topped with juicy Golden Corn\n*Contains non-edible container under the Pizza.",
+      "regular_price": 309.0,
+      "veg_status": "Veg",
+      "crust": "Cheese Volcano Crust",
+      "size": "Regular Plus",
+      "striked_price": null,
+      "categories": [
+        "Veg Pizza"
+      ]
+    },
+    {
+      "name": "Margherita",
+      "description": "Classic delight with 100% real mozzarella cheese.",
+      "regular_price": 109.0,
+      "veg_status": "Veg",
+      "crust": "New Hand Tossed",
+      "size": "Regular",
+      "striked_price": null,
+      "categories": [
+        "Veg Pizza"
+      ]
+    },
+    {
+      "name": "Farmhouse",
+      "description": "Delightful combination of onion, capsicum, tomato & grilled mushroom.",
+      "regular_price": 259.0,
+      "veg_status": "Veg",
+      "crust": "New Hand Tossed",
+      "size": "Regular",
+      "striked_price": null,
+      "categories": [
+        "Veg Pizza"
+      ]
+    },
+    {
+      "name": "Peppy Paneer",
+      "description": "Flavorful trio of juicy paneer, crisp capsicum with spicy red paprika.",
+      "regular_price": 269.0,
+      "veg_status": "Veg",
+      "crust": "New Hand Tossed",
+      "size": "Regular",
+      "striked_price": null,
+      "categories": [
+        "Veg Pizza"
+      ]
+    },
+    {
+      "name": "Veggie Paradise",
+      "description": "The awesome foursome! Golden corn, black olives, capsicum, red paprika.",
+      "regular_price": 269.0,
+      "veg_status": "Veg",
+      "crust": "New Hand Tossed",
+      "size": "Regular",
+      "striked_price": null,
+      "categories": [
+        "Veg Pizza"
+      ]
+    },
+    {
+      "name": "Double Cheese Margherita",
+      "description": "A classic delight loaded with extra 100% real mozzarella cheese.",
+      "regular_price": 209.0,
+      "veg_status": "Veg",
+      "crust": "New Hand Tossed",
+      "size": "Regular",
+      "striked_price": null,
+      "categories": [
+        "Veg Pizza"
+      ]
+    },
+    {
+      "name": "Indi Tandoori Paneer",
+      "description": "It is hot. It is spicy. It is oh-so-Indian. Tandoori paneer with capsicum, red paprika & mint mayo.",
+      "regular_price": 319.0,
+      "veg_status": "Veg",
+      "crust": "New Hand Tossed",
+      "size": "Regular",
+      "striked_price": null,
+      "categories": [
+        "Veg Pizza"
+      ]
+    },
+    {
+      "name": "Cheese n Corn",
+      "description": "A delectable combination of sweet & juicy golden corn.",
+      "regular_price": 209.0,
+      "veg_status": "Veg",
+      "crust": "New Hand Tossed",
+      "size": "Regular",
+      "striked_price": null,
+      "categories": [
+        "Veg Pizza"
+      ]
+    },
+    {
+      "name": "Veg Extravaganza",
+      "description": "Black olives, capsicum, onion, grilled mushroom, corn, tomato, jalapeno & extra cheese.",
+      "regular_price": 309.0,
+      "veg_status": "Veg",
+      "crust": "New Hand Tossed",
+      "size": "Regular",
+      "striked_price": null,
+      "categories": [
+        "Veg Pizza"
+      ]
+    },
+    {
+      "name": "Mexican Green Wave",
+      "description": "Mexican herbs sprinkled on onion, capsicum, tomato & jalapeno.",
+      "regular_price": 269.0,
+      "veg_status": "Veg",
+      "crust": "New Hand Tossed",
+      "size": "Regular",
+      "striked_price": null,
+      "categories": [
+        "Veg Pizza"
+      ]
+    },
+    {
+      "name": "Fresh Veggie",
+      "description": "Delectable combination of onion & capsicum, a veggie lovers pick.",
+      "regular_price": 219.0,
+      "veg_status": "Veg",
+      "crust": "New Hand Tossed",
+      "size": "Regular",
+      "striked_price": null,
+      "categories": [
+        "Veg Pizza"
+      ]
+    },
+    {
+      "name": "Fiery Jalapeno & Paprika",
+      "description": "Spiciest veg pizza with jalapeno & red paprika toppings and a new spicy peri peri sauce..",
+      "regular_price": 199.0,
+      "veg_status": "Veg",
+      "crust": "New Hand Tossed",
+      "size": "Regular",
+      "striked_price": null,
+      "categories": [
+        "Veg Pizza"
+      ]
+    },
+    {
+      "name": "Corn n Cheese Paratha Pizza",
+      "description": "A crazy fusion like never before. A delicious fusion of corn stuffed paratha and cheesy pizza..",
+      "regular_price": 199.0,
+      "veg_status": "Veg",
+      "crust": "100% Wheat Thin Crust",
+      "size": "Regular",
+      "striked_price": null,
+      "categories": [
+        "Veg Pizza"
+      ]
+    },
+    {
+      "name": "Achari Do Pyaza",
+      "description": "Tangy & spicy achari flavours on a super cheesy onion pizza- as desi as it gets!.",
+      "regular_price": 199.0,
+      "veg_status": "Veg",
+      "crust": "New Hand Tossed",
+      "size": "Regular",
+      "striked_price": null,
+      "categories": [
+        "Veg Pizza"
+      ]
+    },
+    {
+      "name": "Cheese Overload",
+      "description": "Cheese Overloaded Pizza with a medley of Mozzarella, Cheddar & Ghost Pepper flavoured Cheese..",
+      "regular_price": 379.0,
+      "veg_status": "Veg",
+      "crust": "New Hand Tossed",
+      "size": "Regular",
+      "striked_price": null,
+      "categories": [
+        "Veg Pizza"
+      ]
+    },
+    {
+      "name": "Blazing Onion & Paprika",
+      "description": "Hot & spicy pizza with onion & red paprika toppings and a new spicy peri peri sauce on a Domino's cheesy base..",
+      "regular_price": 199.0,
+      "veg_status": "Veg",
+      "crust": "New Hand Tossed",
+      "size": "Regular",
+      "striked_price": null,
+      "categories": [
+        "Veg Pizza"
+      ]
+    },
+    {
+      "name": "Paneer Spice Supreme",
+      "description": "Loaded with Paneer, Red Paprika, Olives and Jalapeno; The Best a No Onion No Garlic Pizza can get!.",
+      "regular_price": 299.0,
+      "veg_status": "Veg",
+      "crust": "New Hand Tossed",
+      "size": "Regular",
+      "striked_price": null,
+      "categories": [
+        "Veg Pizza"
+      ]
+    },
+    {
+      "name": "Big Big 6in1 Pizza - Veg",
+      "description": "6 Veggie Blockbusters in 1 Epic Pan Pizza: Corn N Cheese, Peppy Paneer, Farmhouse, Mexican Green Wave, Veg Paradise, Margherita.",
+      "regular_price": 799.0,
+      "veg_status": "Veg",
+      "crust": "New Hand Tossed",
+      "size": "Large Plus",
+      "striked_price": 1394.0,
+      "categories": [
+        "Veg Pizza"
+      ]
+    },
+    {
+      "name": "Cheese Volcano BBQ Chicken",
+      "description": "Centre loaded with Molten Cheese & topped with Pepper BBQ Chicken\n*Contains non-edible container under the Pizza.",
+      "regular_price": 359.0,
+      "veg_status": "Non-Veg",
+      "crust": "Cheese Volcano Crust",
+      "size": "Regular Plus",
+      "striked_price": null,
+      "categories": [
+        "Non-Veg Pizza"
+      ]
+    },
+    {
+      "name": "Cheese Volcano Chicken Delight",
+      "description": "Centre loaded with Molten Cheese & topped with Pepper BBQ Chicken & Golden Corn\n*Contains non-edible container under the Pizza.",
+      "regular_price": 359.0,
+      "veg_status": "Non-Veg",
+      "crust": "Cheese Volcano Crust",
+      "size": "Regular Plus",
+      "striked_price": null,
+      "categories": [
+        "Non-Veg Pizza"
+      ]
+    },
+    {
+      "name": "Cheese Volcano Double Chicken",
+      "description": "Centre loaded with Molten Cheese & topped with Pepper BBQ Chicken & Peri Peri Chicken.\n*Contains non-edible container under the Pizza.",
+      "regular_price": 359.0,
+      "veg_status": "Non-Veg",
+      "crust": "Cheese Volcano Crust",
+      "size": "Regular Plus",
+      "striked_price": null,
+      "categories": [
+        "Non-Veg Pizza"
+      ]
+    },
+    {
+      "name": "Cheese Volcano Blazing Chicken",
+      "description": "Centre loaded with Molten Cheese & topped with Chicken Keema & Red Paprika with our spicy Peri Peri Sauce\n*Contains non-edible container under the Pizza.",
+      "regular_price": 359.0,
+      "veg_status": "Non-Veg",
+      "crust": "Cheese Volcano Crust",
+      "size": "Regular Plus",
+      "striked_price": null,
+      "categories": [
+        "Non-Veg Pizza"
+      ]
+    },
+    {
+      "name": "Pepper Barbecue Chicken",
+      "description": "Pepper barbecue chicken for that extra zing.",
+      "regular_price": 249.0,
+      "veg_status": "Non-Veg",
+      "crust": "New Hand Tossed",
+      "size": "Regular",
+      "striked_price": null,
+      "categories": [
+        "Non-Veg Pizza"
+      ]
+    },
+    {
+      "name": "Blazing Chicken & Paprika",
+      "description": "Hot & spicy chicken pizza with a combination of chicken keema & red paprika toppings and a new spicy peri peri sauce..",
+      "regular_price": 269.0,
+      "veg_status": "Non-Veg",
+      "crust": "New Hand Tossed",
+      "size": "Regular",
+      "striked_price": null,
+      "categories": [
+        "Non-Veg Pizza"
+      ]
+    },
+    {
+      "name": "Chicken Sausage",
+      "description": "American classic! Spicy, herbed chicken sausage on pizza.",
+      "regular_price": 209.0,
+      "veg_status": "Non-Veg",
+      "crust": "New Hand Tossed",
+      "size": "Regular",
+      "striked_price": null,
+      "categories": [
+        "Non-Veg Pizza"
+      ]
+    },
+    {
+      "name": "Spiced Double Chicken",
+      "description": "Delightful combination of our spicy duo- Pepper Barbecue Chicken and Peri Peri Chicken for Chicken Lovers..",
+      "regular_price": 329.0,
+      "veg_status": "Non-Veg",
+      "crust": "New Hand Tossed",
+      "size": "Regular",
+      "striked_price": null,
+      "categories": [
+        "Non-Veg Pizza"
+      ]
+    },
+    {
+      "name": "Chicken Dominator",
+      "description": "Loaded with double pepper barbecue chicken, peri-peri chicken, chicken tikka & grilled chicken rashers.",
+      "regular_price": 369.0,
+      "veg_status": "Non-Veg",
+      "crust": "New Hand Tossed",
+      "size": "Regular",
+      "striked_price": null,
+      "categories": [
+        "Non-Veg Pizza"
+      ]
+    },
+    {
+      "name": "Chicken Keema Paratha Pizza",
+      "description": "Flavourful & meaty chicken keema paratha and goodness of cheesy pizza coming together in an epic crossover!.",
+      "regular_price": 249.0,
+      "veg_status": "Non-Veg",
+      "crust": "100% Wheat Thin Crust",
+      "size": "Regular",
+      "striked_price": null,
+      "categories": [
+        "Non-Veg Pizza"
+      ]
+    },
+    {
+      "name": "Indi Chicken Tikka",
+      "description": "The wholesome flavour of tandoori masala with Chicken tikka, onion, red paprika & mint mayo.",
+      "regular_price": 389.0,
+      "veg_status": "Non-Veg",
+      "crust": "New Hand Tossed",
+      "size": "Regular",
+      "striked_price": null,
+      "categories": [
+        "Non-Veg Pizza"
+      ]
+    },
+    {
+      "name": "The 5 Chicken Feast Pizza",
+      "description": "Loaded with 5 different Chicken toppings - grilled Chicken Rashers, Chicken Meatballs, Chicken Tikka, herby Chicken Sausage and flavorful Chicken Keema.",
+      "regular_price": 399.0,
+      "veg_status": "Non-Veg",
+      "crust": "New Hand Tossed",
+      "size": "Regular",
+      "striked_price": null,
+      "categories": [
+        "Non-Veg Pizza"
+      ]
+    },
+    {
+      "name": "Chicken Pepperoni",
+      "description": "A classic American taste! Relish the delectable flavor of Chicken Pepperoni, topped with extra cheese.",
+      "regular_price": 379.0,
+      "veg_status": "Non-Veg",
+      "crust": "New Hand Tossed",
+      "size": "Regular",
+      "striked_price": null,
+      "categories": [
+        "Non-Veg Pizza"
+      ]
+    },
+    {
+      "name": "Non Veg Supreme",
+      "description": "Supreme combination of black olives, onion, capsicum, grilled mushroom, pepper barbecue chicken, peri-peri chicken & grilled chicken rashers.",
+      "regular_price": 399.0,
+      "veg_status": "Non-Veg",
+      "crust": "New Hand Tossed",
+      "size": "Regular",
+      "striked_price": null,
+      "categories": [
+        "Non-Veg Pizza"
+      ]
+    },
+    {
+      "name": "Chicken Fiesta",
+      "description": "Grilled chicken rashers, peri-peri chicken, onion & capsicum, a complete fiesta.",
+      "regular_price": 339.0,
+      "veg_status": "Non-Veg",
+      "crust": "New Hand Tossed",
+      "size": "Regular",
+      "striked_price": null,
+      "categories": [
+        "Non-Veg Pizza"
+      ]
+    },
+    {
+      "name": "Fiery Sausage & Paprika",
+      "description": "Spiciest non veg pizza with spicy & herby chicken sausage and red paprika toppings on a new spicy peri peri sauce base..",
+      "regular_price": 269.0,
+      "veg_status": "Non-Veg",
+      "crust": "New Hand Tossed",
+      "size": "Regular",
+      "striked_price": null,
+      "categories": [
+        "Non-Veg Pizza"
+      ]
+    },
+    {
+      "name": "Chicken Golden Delight",
+      "description": "Double pepper barbecue chicken, golden corn and extra cheese, true delight.",
+      "regular_price": 309.0,
+      "veg_status": "Non-Veg",
+      "crust": "New Hand Tossed",
+      "size": "Regular",
+      "striked_price": null,
+      "categories": [
+        "Non-Veg Pizza"
+      ]
+    },
+    {
+      "name": "Big Big 6in1 Pizza - Non Veg",
+      "description": "6 Chicken Bangers in 1 Epic Pan Pizza: Pepper Barbeque Chicken, Chicken Dominator, Chicken Fiesta, Spiced Double Chicken, Chicken Pepperoni, Chicken Golden Delight.",
+      "regular_price": 899.0,
+      "veg_status": "Non-Veg",
+      "crust": "New Hand Tossed",
+      "size": "Large Plus",
+      "striked_price": 1894.0,
+      "categories": [
+        "Non-Veg Pizza"
+      ]
+    },
+    {
+      "name": "Cheese Volcano Peppy Paneer",
+      "description": "Centre loaded with Molten Cheese & topped with peppy Paneer, Capsicum & Red Paprika\n*Contains non-edible container under the Pizza.",
+      "regular_price": 309.0,
+      "veg_status": "Veg",
+      "crust": "Cheese Volcano Crust",
+      "size": "Regular Plus",
+      "striked_price": null,
+      "categories": [
+        "Cheese Volcano"
+      ]
+    },
+    {
+      "name": "Cheese Volcano Farmhouse",
+      "description": "Centre loaded with Molten Cheese & topped with Onion, Capsicum, Tomato & Grilled Mushroom\n*Contains non-edible container under the Pizza.",
+      "regular_price": 309.0,
+      "veg_status": "Veg",
+      "crust": "Cheese Volcano Crust",
+      "size": "Regular Plus",
+      "striked_price": null,
+      "categories": [
+        "Cheese Volcano"
+      ]
+    },
+    {
+      "name": "Cheese Volcano Veg Paradise",
+      "description": "Centre loaded with Molten Cheese & topped with Golden Corn, Black Olives, Capsicum & Red Paprika\n*Contains non-edible container under the Pizza.",
+      "regular_price": 309.0,
+      "veg_status": "Veg",
+      "crust": "Cheese Volcano Crust",
+      "size": "Regular Plus",
+      "striked_price": null,
+      "categories": [
+        "Cheese Volcano"
+      ]
+    },
+    {
+      "name": "Corn & Cheese Volcano",
+      "description": "Centre loaded with Molten Cheese & topped with juicy Golden Corn\n*Contains non-edible container under the Pizza.",
+      "regular_price": 309.0,
+      "veg_status": "Veg",
+      "crust": "Cheese Volcano Crust",
+      "size": "Regular Plus",
+      "striked_price": null,
+      "categories": [
+        "Cheese Volcano"
+      ]
+    },
+    {
+      "name": "Cheese Volcano BBQ Chicken",
+      "description": "Centre loaded with Molten Cheese & topped with Pepper BBQ Chicken\n*Contains non-edible container under the Pizza.",
+      "regular_price": 359.0,
+      "veg_status": "Non-Veg",
+      "crust": "Cheese Volcano Crust",
+      "size": "Regular Plus",
+      "striked_price": null,
+      "categories": [
+        "Cheese Volcano"
+      ]
+    },
+    {
+      "name": "Cheese Volcano Chicken Delight",
+      "description": "Centre loaded with Molten Cheese & topped with Pepper BBQ Chicken & Golden Corn\n*Contains non-edible container under the Pizza.",
+      "regular_price": 359.0,
+      "veg_status": "Non-Veg",
+      "crust": "Cheese Volcano Crust",
+      "size": "Regular Plus",
+      "striked_price": null,
+      "categories": [
+        "Cheese Volcano"
+      ]
+    },
+    {
+      "name": "Cheese Volcano Double Chicken",
+      "description": "Centre loaded with Molten Cheese & topped with Pepper BBQ Chicken & Peri Peri Chicken.\n*Contains non-edible container under the Pizza.",
+      "regular_price": 359.0,
+      "veg_status": "Non-Veg",
+      "crust": "Cheese Volcano Crust",
+      "size": "Regular Plus",
+      "striked_price": null,
+      "categories": [
+        "Cheese Volcano"
+      ]
+    },
+    {
+      "name": "Cheese Volcano Blazing Chicken",
+      "description": "Centre loaded with Molten Cheese & topped with Chicken Keema & Red Paprika with our spicy Peri Peri Sauce\n*Contains non-edible container under the Pizza.",
+      "regular_price": 359.0,
+      "veg_status": "Non-Veg",
+      "crust": "Cheese Volcano Crust",
+      "size": "Regular Plus",
+      "striked_price": null,
+      "categories": [
+        "Cheese Volcano"
+      ]
+    },
+    {
+      "name": "Spicy Boneless Thighs",
+      "description": "Crispy, juicy boneless thighs seasoned with flavourful chili for a spicy kick. Crunchy outside, juicy inside!.",
+      "regular_price": 149.0,
+      "veg_status": "Non-Veg",
+      "crust": null,
+      "size": null,
+      "striked_price": null,
+      "categories": [
+        "Chicken Feast"
+      ]
+    },
+    {
+      "name": "Grilled wings Southern Spice",
+      "description": "Juicy grilled chicken wings roasted with rich Southern spices for a delicious flavor!.",
+      "regular_price": 169.0,
+      "veg_status": "Non-Veg",
+      "crust": null,
+      "size": null,
+      "striked_price": null,
+      "categories": [
+        "Chicken Feast"
+      ]
+    },
+    {
+      "name": "Grilled Wings Lemon Pepper",
+      "description": "Juicy grilled chicken wings roasted with zesty lemon pepper seasoning for a delicious taste!.",
+      "regular_price": 169.0,
+      "veg_status": "Non-Veg",
+      "crust": null,
+      "size": null,
+      "striked_price": null,
+      "categories": [
+        "Chicken Feast"
+      ]
+    },
+    {
+      "name": "Grilled Wings Signature Garlic",
+      "description": "Juicy grilled chicken wings roasted with bold garlic flavors for a delicious taste!.",
+      "regular_price": 169.0,
+      "veg_status": "Non-Veg",
+      "crust": null,
+      "size": null,
+      "striked_price": null,
+      "categories": [
+        "Chicken Feast"
+      ]
+    },
+    {
+      "name": "Cream and Onion Dip",
+      "description": "A rich and creamy dip with a delicious blend of onion and spices, inspired by international flavors!.",
+      "regular_price": 39.0,
+      "veg_status": "Veg",
+      "crust": null,
+      "size": null,
+      "striked_price": null,
+      "categories": [
+        "Chicken Feast"
+      ]
+    },
+    {
+      "name": "Peri Peri Dip",
+      "description": "A spicy and tangy dip with bold peri peri flavors!.",
+      "regular_price": 39.0,
+      "veg_status": "Veg",
+      "crust": null,
+      "size": null,
+      "striked_price": null,
+      "categories": [
+        "Chicken Feast"
+      ]
+    },
+    {
+      "name": "Rich Garlic Dip",
+      "description": "A creamy dip with a rich, bold garlic flavor!.",
+      "regular_price": 39.0,
+      "veg_status": "Veg",
+      "crust": null,
+      "size": null,
+      "striked_price": null,
+      "categories": [
+        "Chicken Feast"
+      ]
+    },
+    {
+      "name": "Korean Sweet Chilli Dip",
+      "description": "A sweet and spicy dip inspired by bold Korean flavors!.",
+      "regular_price": 39.0,
+      "veg_status": "Veg",
+      "crust": null,
+      "size": null,
+      "striked_price": null,
+      "categories": [
+        "Chicken Feast"
+      ]
+    },
+    {
+      "name": "Paneer, Onion & Capsicum with Desi Makhani Sauce",
+      "description": "Authentic Indian Flavor of Makhani Sauce loaded with juicy Paneer, crisp Capsicum and crunchy Onion..",
+      "regular_price": 129.0,
+      "veg_status": "Veg",
+      "crust": "Classic Hand Tossed",
+      "size": "Regular",
+      "striked_price": null,
+      "categories": [
+        "Pizza Mania"
+      ]
+    },
+    {
+      "name": "Onion",
+      "description": "Our classic Pizza Mania topped with crunchy Onions.",
+      "regular_price": 69.0,
+      "veg_status": "Veg",
+      "crust": "Classic Hand Tossed",
+      "size": "Regular",
+      "striked_price": null,
+      "categories": [
+        "Pizza Mania"
+      ]
+    },
+    {
+      "name": "Paneer & Capsicum with Videshi Hot Sauce",
+      "description": "Internationally inspired Hot sauce to cater your spice cravings loaded with juicy Paneer and crisp Capsicum..",
+      "regular_price": 109.0,
+      "veg_status": "Veg",
+      "crust": "Classic Hand Tossed",
+      "size": "Regular",
+      "striked_price": null,
+      "categories": [
+        "Pizza Mania"
+      ]
+    },
+    {
+      "name": "Classic",
+      "description": "A classic pizza topped with sprinkle of basil and parsley herbs.",
+      "regular_price": 49.0,
+      "veg_status": "Veg",
+      "crust": "Classic Hand Tossed",
+      "size": "Regular",
+      "striked_price": null,
+      "categories": [
+        "Pizza Mania"
+      ]
+    },
+    {
+      "name": "Golden Corn",
+      "description": "Sweet & juicy golden corn for that lipsmacking taste.",
+      "regular_price": 89.0,
+      "veg_status": "Veg",
+      "crust": "Classic Hand Tossed",
+      "size": "Regular",
+      "striked_price": null,
+      "categories": [
+        "Pizza Mania"
+      ]
+    },
+    {
+      "name": "Capsicum & Red Paprika with Videshi Hot Sauce",
+      "description": "Internationally inspired Hot sauce to cater your spice cravings loaded with crisp Capsicum and spicy Red Paprika..",
+      "regular_price": 89.0,
+      "veg_status": "Veg",
+      "crust": "Classic Hand Tossed",
+      "size": "Regular",
+      "striked_price": null,
+      "categories": [
+        "Pizza Mania"
+      ]
+    },
+    {
+      "name": "Veg Loaded",
+      "description": "Tomato, Jalapeno, Corn, Grilled Mushroom & crushed Aranchini Patty in a fresh pan crust.",
+      "regular_price": 189.0,
+      "veg_status": "Veg",
+      "crust": "Fresh Pan Pizza",
+      "size": "Regular",
+      "striked_price": null,
+      "categories": [
+        "Pizza Mania"
+      ]
+    },
+    {
+      "name": "Pepper Barbecue Chicken",
+      "description": "Pepper barbecue chicken for that extra zing.",
+      "regular_price": 119.0,
+      "veg_status": "Non-Veg",
+      "crust": "Classic Hand Tossed",
+      "size": "Regular",
+      "striked_price": null,
+      "categories": [
+        "Pizza Mania"
+      ]
+    },
+    {
+      "name": "Chicken Sausage",
+      "description": "American classic! Spicy, herbed chicken sausage on pizza.",
+      "regular_price": 109.0,
+      "veg_status": "Non-Veg",
+      "crust": "Classic Hand Tossed",
+      "size": "Regular",
+      "striked_price": null,
+      "categories": [
+        "Pizza Mania"
+      ]
+    },
+    {
+      "name": "Non Veg Loaded",
+      "description": "Chicken sausage, pepper barbecue chicken & peri-peri chicken in a fresh pan crust.",
+      "regular_price": 199.0,
+      "veg_status": "Non-Veg",
+      "crust": "Fresh Pan Pizza",
+      "size": "Regular",
+      "striked_price": null,
+      "categories": [
+        "Pizza Mania"
+      ]
+    },
+    {
+      "name": "Chicken Keema & Onion with Desi Makhani Sauce",
+      "description": "Authentic Indian Flavor of Makhani Sauce loaded with meaty Chicken Keema and crunchy Onion..",
+      "regular_price": 149.0,
+      "veg_status": "Non-Veg",
+      "crust": "Classic Hand Tossed",
+      "size": "Regular",
+      "striked_price": null,
+      "categories": [
+        "Pizza Mania"
+      ]
+    },
+    {
+      "name": "Classic Stuffed Garlic Bread",
+      "description": "Freshly baked garlic bread with cheese, juicy corn & tangy jalapeno.",
+      "regular_price": 159.0,
+      "veg_status": "Veg",
+      "crust": null,
+      "size": null,
+      "striked_price": null,
+      "categories": [
+        "Garlic Breads & More"
+      ]
+    },
+    {
+      "name": "Korean Corn & Jalapeno Garlic Bread",
+      "description": "Freshly baked garlic bread infused with Korean Sweet Chili Sauce, Molten cheese, juicy corn & tangy jalapeno.",
+      "regular_price": 179.0,
+      "veg_status": "Veg",
+      "crust": null,
+      "size": null,
+      "striked_price": null,
+      "categories": [
+        "Garlic Breads & More"
+      ]
+    },
+    {
+      "name": "Fiery Corn & Jalapeno Garlic Bread",
+      "description": "Freshly baked garlic bread infused with Spicy Guntur Sauce, Molten cheese, juicy corn & tangy jalapeno.",
+      "regular_price": 179.0,
+      "veg_status": "Veg",
+      "crust": null,
+      "size": null,
+      "striked_price": null,
+      "categories": [
+        "Garlic Breads & More"
+      ]
+    },
+    {
+      "name": "Makhani Corn & Jalapeno Garlic Bread",
+      "description": "Freshly baked garlic bread infused with Creamy Makhani Sauce, Molten cheese, juicy corn & tangy jalapeno.",
+      "regular_price": 179.0,
+      "veg_status": "Veg",
+      "crust": null,
+      "size": null,
+      "striked_price": null,
+      "categories": [
+        "Garlic Breads & More"
+      ]
+    },
+    {
+      "name": "Paneer Tikka Stuffed Garlic Bread",
+      "description": "Freshly Baked Stuffed Garlic Bread with Cheese, Onion and Paneer Tikka fillings. Comes with a dash of Basil Parsley Sprinkle on top.",
+      "regular_price": 169.0,
+      "veg_status": "Veg",
+      "crust": null,
+      "size": null,
+      "striked_price": null,
+      "categories": [
+        "Garlic Breads & More"
+      ]
+    },
+    {
+      "name": "Korean Paneer Tikka Garlic Bread",
+      "description": "Freshly Baked Stuffed Garlic Bread infused with Korean Sweet Chili Sauce, Molten Cheese, Onion and Paneer Tikka fillings.",
+      "regular_price": 179.0,
+      "veg_status": "Veg",
+      "crust": null,
+      "size": null,
+      "striked_price": null,
+      "categories": [
+        "Garlic Breads & More"
+      ]
+    },
+    {
+      "name": "Fiery Paneer Tikka Garlic Bread",
+      "description": "Freshly Baked Stuffed Garlic Bread infused with Spicy Guntur Sauce, Molten Cheese, Onion and Paneer Tikka fillings.",
+      "regular_price": 179.0,
+      "veg_status": "Veg",
+      "crust": null,
+      "size": null,
+      "striked_price": null,
+      "categories": [
+        "Garlic Breads & More"
+      ]
+    },
+    {
+      "name": "Makhani Paneer Tikka Garlic Bread",
+      "description": "Freshly Baked Stuffed Garlic Bread infused with Creamy Makhani Sauce, Molten Cheese, Onion and Paneer Tikka fillings.",
+      "regular_price": 179.0,
+      "veg_status": "Veg",
+      "crust": null,
+      "size": null,
+      "striked_price": null,
+      "categories": [
+        "Garlic Breads & More"
+      ]
+    },
+    {
+      "name": "Chicken Pepperoni Stuffed Garlic Bread",
+      "description": "Freshly Baked Garlic Bread stuffed with Delectable Chicken Pepperoni, Cheese and sprinkled with Basil Parsley.",
+      "regular_price": 169.0,
+      "veg_status": "Non-Veg",
+      "crust": null,
+      "size": null,
+      "striked_price": null,
+      "categories": [
+        "Garlic Breads & More"
+      ]
+    },
+    {
+      "name": "Korean Pepperoni Garlic Bread",
+      "description": "Freshly Baked Garlic Bread infused with Korean Sweet Chili Sauce, Delectable Chicken Pepperoni & molten Cheese.",
+      "regular_price": 179.0,
+      "veg_status": "Non-Veg",
+      "crust": null,
+      "size": null,
+      "striked_price": null,
+      "categories": [
+        "Garlic Breads & More"
+      ]
+    },
+    {
+      "name": "Fiery Pepperoni Garlic Bread",
+      "description": "Freshly Baked Garlic Bread infused with Spicy Guntur Sauce, Delectable Chicken Pepperoni & molten Cheese.",
+      "regular_price": 179.0,
+      "veg_status": "Non-Veg",
+      "crust": null,
+      "size": null,
+      "striked_price": null,
+      "categories": [
+        "Garlic Breads & More"
+      ]
+    },
+    {
+      "name": "Makhani Pepperoni Garlic Bread",
+      "description": "Freshly Baked Garlic Bread infused with Creamy Makhani Sauce, Delectable Chicken Pepperoni & molten Cheese.",
+      "regular_price": 179.0,
+      "veg_status": "Non-Veg",
+      "crust": null,
+      "size": null,
+      "striked_price": null,
+      "categories": [
+        "Garlic Breads & More"
+      ]
+    },
+    {
+      "name": "Garlic Breadsticks + Cheesy Dip",
+      "description": "Enjoy the all-time favorite Garlic Breadsticks with the indulgent Cheesy Dip.",
+      "regular_price": 138.0,
+      "veg_status": "Veg",
+      "crust": null,
+      "size": null,
+      "striked_price": null,
+      "categories": [
+        "Garlic Breads & More"
+      ]
+    },
+    {
+      "name": "Cheesy Dip",
+      "description": "An all-time favorite with your Garlic Breadsticks & Stuffed Garlic Bread for a Cheesy indulgence.",
+      "regular_price": 30.0,
+      "veg_status": "Veg",
+      "crust": null,
+      "size": null,
+      "striked_price": null,
+      "categories": [
+        "Garlic Breads & More"
+      ]
+    },
+    {
+      "name": "Garlic Breadsticks",
+      "description": "Baked to perfection. Your perfect pizza partner! Tastes best with dip.",
+      "regular_price": 109.0,
+      "veg_status": "Veg",
+      "crust": null,
+      "size": null,
+      "striked_price": null,
+      "categories": [
+        "Garlic Breads & More"
+      ]
+    },
+    {
+      "name": "Veg Parcel",
+      "description": "Snacky bites! Pizza rolls with paneer & creamy harissa sauce.",
+      "regular_price": 49.0,
+      "veg_status": "Veg",
+      "crust": null,
+      "size": null,
+      "striked_price": null,
+      "categories": [
+        "Garlic Breads & More"
+      ]
+    },
+    {
+      "name": "Garlic Breadsticks + Beverage",
+      "description": "Enjoy the all time favourite Garlic Breadsticks with Coke.",
+      "regular_price": 149.0,
+      "veg_status": "Veg",
+      "crust": null,
+      "size": null,
+      "striked_price": 166.0,
+      "categories": [
+        "Garlic Breads & More"
+      ]
+    },
+    {
+      "name": "Taco Mexicana Veg",
+      "description": "Truly irresistible! Crispy taco with veg patty & creamy harissa sauce.",
+      "regular_price": 139.0,
+      "veg_status": "Veg",
+      "crust": null,
+      "size": null,
+      "striked_price": null,
+      "categories": [
+        "Garlic Breads & More"
+      ]
+    },
+    {
+      "name": "Burger Pizza - Classic Veg",
+      "description": "Oven-baked buns with cheese, tomato & capsicum in creamy mayo.",
+      "regular_price": 119.0,
+      "veg_status": "Veg",
+      "crust": null,
+      "size": null,
+      "striked_price": null,
+      "categories": [
+        "Garlic Breads & More"
+      ]
+    },
+    {
+      "name": "Burger Pizza - Premium Veg",
+      "description": "Oven-baked buns with cheese, paneer, tomato, capsicum & red paprika in creamy mayo.",
+      "regular_price": 149.0,
+      "veg_status": "Veg",
+      "crust": null,
+      "size": null,
+      "striked_price": null,
+      "categories": [
+        "Garlic Breads & More"
+      ]
+    },
+    {
+      "name": "Burger Pizza - Classic Non Veg",
+      "description": "Oven-baked buns with cheese, peri-peri chicken, tomato & jalapeno in creamy mayo.",
+      "regular_price": 159.0,
+      "veg_status": "Non-Veg",
+      "crust": null,
+      "size": null,
+      "striked_price": null,
+      "categories": [
+        "Garlic Breads & More"
+      ]
+    },
+    {
+      "name": "Taco Mexicana-Veg (Single)",
+      "description": "Truly irresistible! Crispy taco with a delicious veg patty & creamy sauce.",
+      "regular_price": 79.0,
+      "veg_status": "Veg",
+      "crust": null,
+      "size": null,
+      "striked_price": null,
+      "categories": [
+        "Garlic Breads & More"
+      ]
+    },
+    {
+      "name": "Taco Mexicana Non Veg",
+      "description": "Truly irresistible! Crispy taco with non-veg patty & creamy harissa sauce.",
+      "regular_price": 169.0,
+      "veg_status": "Non-Veg",
+      "crust": null,
+      "size": null,
+      "striked_price": null,
+      "categories": [
+        "Garlic Breads & More"
+      ]
+    },
+    {
+      "name": "Chicken Parcel",
+      "description": "Snacky bites! Pizza rolls with chicken sausage & creamy harissa sauce.",
+      "regular_price": 59.0,
+      "veg_status": "Non-Veg",
+      "crust": null,
+      "size": null,
+      "striked_price": null,
+      "categories": [
+        "Garlic Breads & More"
+      ]
+    },
+    {
+      "name": "Tomato Ketchup",
+      "description": "Goodness of Tomato Ketchup in mini sachets.",
+      "regular_price": 2.0,
+      "veg_status": "Veg",
+      "crust": null,
+      "size": null,
+      "striked_price": null,
+      "categories": [
+        "Garlic Breads & More"
+      ]
+    },
+    {
+      "name": "Basil Pesto Dip",
+      "description": "Your perfect pizza partner!  Savour your pizza slices with this new rich, herby & salty dip with the goodness of basil leaves & nuts that will surely give you a new flavor dimension!.",
+      "regular_price": 49.0,
+      "veg_status": "Veg",
+      "crust": null,
+      "size": null,
+      "striked_price": null,
+      "categories": [
+        "Garlic Breads & More"
+      ]
+    },
+    {
+      "name": "Harissa Dip",
+      "description": "A spicy & peppery pizza dip which can help you add the right amount of spiciness to your favorite pizza slices..",
+      "regular_price": 49.0,
+      "veg_status": "Veg",
+      "crust": null,
+      "size": null,
+      "striked_price": null,
+      "categories": [
+        "Garlic Breads & More"
+      ]
+    },
+    {
+      "name": "Coca Cola 475ml",
+      "description": "Sparkling and Refreshing Beverage.",
+      "regular_price": 70.0,
+      "veg_status": "Veg",
+      "crust": null,
+      "size": null,
+      "striked_price": null,
+      "categories": [
+        "Beverages"
+      ]
+    },
+    {
+      "name": "Coca Cola Zero Sugar 330ml",
+      "description": "Maximum Taste, Zero Sugar.",
+      "regular_price": 70.0,
+      "veg_status": "Veg",
+      "crust": null,
+      "size": null,
+      "striked_price": null,
+      "categories": [
+        "Beverages"
+      ]
+    },
+    {
+      "name": "B Natural Alphonsos from Ratnagiri (300 ml)",
+      "description": "Alphonsos only from Ratnagiri with the Goodness of Fiber.",
+      "regular_price": 75.0,
+      "veg_status": "Veg",
+      "crust": null,
+      "size": null,
+      "striked_price": null,
+      "categories": [
+        "Beverages"
+      ]
+    },
+    {
+      "name": "B Natural Mixed Fruit from Himalayas (300 ml)",
+      "description": "Premium fruits from Himalayas with the Goodness of Fiber.",
+      "regular_price": 75.0,
+      "veg_status": "Veg",
+      "crust": null,
+      "size": null,
+      "striked_price": null,
+      "categories": [
+        "Beverages"
+      ]
+    },
+    {
+      "name": "Aquavess Water (500ml)",
+      "description": "Packaged Drinking Water.",
+      "regular_price": 30.0,
+      "veg_status": "Veg",
+      "crust": null,
+      "size": null,
+      "striked_price": null,
+      "categories": [
+        "Beverages"
+      ]
+    },
+    {
+      "name": "Nagpur Orange",
+      "description": "Enjoy Oranges from Nagpur with the goodness of Fiber.",
+      "regular_price": 75.0,
+      "veg_status": "Veg",
+      "crust": null,
+      "size": null,
+      "striked_price": null,
+      "categories": [
+        "Beverages"
+      ]
+    },
+    {
+      "name": "Sprite 475ml",
+      "description": "Refreshing clear drink with a natural lemon flavour.",
+      "regular_price": 70.0,
+      "veg_status": "Veg",
+      "crust": null,
+      "size": null,
+      "striked_price": null,
+      "categories": [
+        "Beverages"
+      ]
+    },
+    {
+      "name": "Choco Lava Cake Gift Hamper",
+      "description": "Dive into the ultimate dessert experience with our Lavalicious Combo that’s Made to Share. \n*We don't include a spoon or napkin to support sustainability.",
+      "regular_price": 325.0,
+      "veg_status": "Veg",
+      "crust": null,
+      "size": null,
+      "striked_price": null,
+      "categories": [
+        "Desserts"
+      ]
+    },
+    {
+      "name": "Choco Lava Cake",
+      "description": "Chocolate lovers delight! Indulgent, gooey molten lava inside chocolate cake.",
+      "regular_price": 109.0,
+      "veg_status": "Veg",
+      "crust": null,
+      "size": null,
+      "striked_price": null,
+      "categories": [
+        "Desserts"
+      ]
+    },
+    {
+      "name": "Butterscotch Mousse Cake",
+      "description": "Sweet temptation! Butterscotch flavored mousse.",
+      "regular_price": 109.0,
+      "veg_status": "Veg",
+      "crust": null,
+      "size": null,
+      "striked_price": null,
+      "categories": [
+        "Desserts"
+      ]
+    },
+    {
+      "name": "Red Velvet Lava Cake",
+      "description": "A truly indulgent experience with sweet and rich red velvet cake on a creamy cheese flavoured base to give a burst of flavour in every bite!.",
+      "regular_price": 139.0,
+      "veg_status": "Veg",
+      "crust": null,
+      "size": null,
+      "striked_price": null,
+      "categories": [
+        "Desserts"
+      ]
+    },
+    {
+      "name": "Margherita",
+      "description": "Classic delight with 100% real mozzarella cheese.",
+      "regular_price": 109.0,
+      "veg_status": "Veg",
+      "crust": "New Hand Tossed",
+      "size": "Regular",
+      "striked_price": null,
+      "categories": [
+        "Recommended"
+      ]
+    },
+    {
+      "name": "Farmhouse",
+      "description": "Delightful combination of onion, capsicum, tomato & grilled mushroom.",
+      "regular_price": 259.0,
+      "veg_status": "Veg",
+      "crust": "New Hand Tossed",
+      "size": "Regular",
+      "striked_price": null,
+      "categories": [
+        "Recommended"
+      ]
+    },
+    {
+      "name": "Peppy Paneer",
+      "description": "Flavorful trio of juicy paneer, crisp capsicum with spicy red paprika.",
+      "regular_price": 269.0,
+      "veg_status": "Veg",
+      "crust": "New Hand Tossed",
+      "size": "Regular",
+      "striked_price": null,
+      "categories": [
+        "Recommended"
+      ]
+    },
+    {
+      "name": "Veggie Paradise",
+      "description": "The awesome foursome! Golden corn, black olives, capsicum, red paprika.",
+      "regular_price": 269.0,
+      "veg_status": "Veg",
+      "crust": "New Hand Tossed",
+      "size": "Regular",
+      "striked_price": null,
+      "categories": [
+        "Recommended"
+      ]
+    },
+    {
+      "name": "Cheese n Corn",
+      "description": "A delectable combination of sweet & juicy golden corn.",
+      "regular_price": 209.0,
+      "veg_status": "Veg",
+      "crust": "New Hand Tossed",
+      "size": "Regular",
+      "striked_price": null,
+      "categories": [
+        "Recommended"
+      ]
+    },
+    {
+      "name": "Veg Extravaganza",
+      "description": "Black olives, capsicum, onion, grilled mushroom, corn, tomato, jalapeno & extra cheese.",
+      "regular_price": 309.0,
+      "veg_status": "Veg",
+      "crust": "New Hand Tossed",
+      "size": "Regular",
+      "striked_price": null,
+      "categories": [
+        "Recommended"
+      ]
+    },
+    {
+      "name": "Pepper Barbecue Chicken",
+      "description": "Pepper barbecue chicken for that extra zing.",
+      "regular_price": 249.0,
+      "veg_status": "Non-Veg",
+      "crust": "New Hand Tossed",
+      "size": "Regular",
+      "striked_price": null,
+      "categories": [
+        "Recommended"
+      ]
+    },
+    {
+      "name": "Chicken Sausage",
+      "description": "American classic! Spicy, herbed chicken sausage on pizza.",
+      "regular_price": 209.0,
+      "veg_status": "Non-Veg",
+      "crust": "New Hand Tossed",
+      "size": "Regular",
+      "striked_price": null,
+      "categories": [
+        "Recommended"
+      ]
+    },
+    {
+      "name": "Fiery Jalapeno & Paprika",
+      "description": "Spiciest veg pizza with jalapeno & red paprika toppings and a new spicy peri peri sauce..",
+      "regular_price": 199.0,
+      "veg_status": "Veg",
+      "crust": "New Hand Tossed",
+      "size": "Regular",
+      "striked_price": null,
+      "categories": [
+        "Recommended"
+      ]
+    },
+    {
+      "name": "Blazing Onion & Paprika",
+      "description": "Hot & spicy pizza with onion & red paprika toppings and a new spicy peri peri sauce on a Domino's cheesy base..",
+      "regular_price": 199.0,
+      "veg_status": "Veg",
+      "crust": "New Hand Tossed",
+      "size": "Regular",
+      "striked_price": null,
+      "categories": [
+        "Recommended"
+      ]
+    },
+    {
+      "name": "Fiery Sausage & Paprika",
+      "description": "Spiciest non veg pizza with spicy & herby chicken sausage and red paprika toppings on a new spicy peri peri sauce base..",
+      "regular_price": 269.0,
+      "veg_status": "Non-Veg",
+      "crust": "New Hand Tossed",
+      "size": "Regular",
+      "striked_price": null,
+      "categories": [
+        "Recommended"
+      ]
+    },
+    {
+      "name": "Paneer Spice Supreme",
+      "description": "Loaded with Paneer, Red Paprika, Olives and Jalapeno; The Best a No Onion No Garlic Pizza can get!.",
+      "regular_price": 299.0,
+      "veg_status": "Veg",
+      "crust": "New Hand Tossed",
+      "size": "Regular",
+      "striked_price": null,
+      "categories": [
+        "Recommended"
+      ]
+    },
+    {
+      "name": "Marg & Farmhouse+Garlic Bread + Coke",
+      "description": "Regular Margherita + Regular Farmhouse + Garlic Bread + Coke.",
+      "regular_price": 459.0,
+      "veg_status": "Veg",
+      "crust": null,
+      "size": null,
+      "striked_price": 534.0,
+      "categories": [
+        "Recommended"
+      ]
+    },
+    {
+      "name": "Big Big 6in1 Pizza - Veg",
+      "description": "6 Veggie Blockbusters in 1 Epic Pan Pizza: Corn N Cheese, Peppy Paneer, Farmhouse, Mexican Green Wave, Veg Paradise, Margherita.",
+      "regular_price": 799.0,
+      "veg_status": "Veg",
+      "crust": "New Hand Tossed",
+      "size": "Large Plus",
+      "striked_price": 1394.0,
+      "categories": [
+        "New Launches"
+      ]
+    },
+    {
+      "name": "Big Big 6in1 Pizza - Non Veg",
+      "description": "6 Chicken Bangers in 1 Epic Pan Pizza: Pepper Barbeque Chicken, Chicken Dominator, Chicken Fiesta, Spiced Double Chicken, Chicken Pepperoni, Chicken Golden Delight.",
+      "regular_price": 899.0,
+      "veg_status": "Non-Veg",
+      "crust": "New Hand Tossed",
+      "size": "Large Plus",
+      "striked_price": 1894.0,
+      "categories": [
+        "New Launches"
+      ]
+    },
+    {
+      "name": "Cheese Volcano Peppy Paneer",
+      "description": "Centre loaded with Molten Cheese & topped with peppy Paneer, Capsicum & Red Paprika\n*Contains non-edible container under the Pizza.",
+      "regular_price": 309.0,
+      "veg_status": "Veg",
+      "crust": "Cheese Volcano Crust",
+      "size": "Regular Plus",
+      "striked_price": null,
+      "categories": [
+        "New Launches"
+      ]
+    },
+    {
+      "name": "Cheese Volcano Farmhouse",
+      "description": "Centre loaded with Molten Cheese & topped with Onion, Capsicum, Tomato & Grilled Mushroom\n*Contains non-edible container under the Pizza.",
+      "regular_price": 309.0,
+      "veg_status": "Veg",
+      "crust": "Cheese Volcano Crust",
+      "size": "Regular Plus",
+      "striked_price": null,
+      "categories": [
+        "New Launches"
+      ]
+    },
+    {
+      "name": "Cheese Volcano Veg Paradise",
+      "description": "Centre loaded with Molten Cheese & topped with Golden Corn, Black Olives, Capsicum & Red Paprika\n*Contains non-edible container under the Pizza.",
+      "regular_price": 309.0,
+      "veg_status": "Veg",
+      "crust": "Cheese Volcano Crust",
+      "size": "Regular Plus",
+      "striked_price": null,
+      "categories": [
+        "New Launches"
+      ]
+    },
+    {
+      "name": "Corn & Cheese Volcano",
+      "description": "Centre loaded with Molten Cheese & topped with juicy Golden Corn\n*Contains non-edible container under the Pizza.",
+      "regular_price": 309.0,
+      "veg_status": "Veg",
+      "crust": "Cheese Volcano Crust",
+      "size": "Regular Plus",
+      "striked_price": null,
+      "categories": [
+        "New Launches"
+      ]
+    },
+    {
+      "name": "Cheese Volcano BBQ Chicken",
+      "description": "Centre loaded with Molten Cheese & topped with Pepper BBQ Chicken\n*Contains non-edible container under the Pizza.",
+      "regular_price": 359.0,
+      "veg_status": "Non-Veg",
+      "crust": "Cheese Volcano Crust",
+      "size": "Regular Plus",
+      "striked_price": null,
+      "categories": [
+        "New Launches"
+      ]
+    },
+    {
+      "name": "Cheese Volcano Chicken Delight",
+      "description": "Centre loaded with Molten Cheese & topped with Pepper BBQ Chicken & Golden Corn\n*Contains non-edible container under the Pizza.",
+      "regular_price": 359.0,
+      "veg_status": "Non-Veg",
+      "crust": "Cheese Volcano Crust",
+      "size": "Regular Plus",
+      "striked_price": null,
+      "categories": [
+        "New Launches"
+      ]
+    },
+    {
+      "name": "Cheese Volcano Double Chicken",
+      "description": "Centre loaded with Molten Cheese & topped with Pepper BBQ Chicken & Peri Peri Chicken.\n*Contains non-edible container under the Pizza.",
+      "regular_price": 359.0,
+      "veg_status": "Non-Veg",
+      "crust": "Cheese Volcano Crust",
+      "size": "Regular Plus",
+      "striked_price": null,
+      "categories": [
+        "New Launches"
+      ]
+    },
+    {
+      "name": "Cheese Volcano Blazing Chicken",
+      "description": "Centre loaded with Molten Cheese & topped with Chicken Keema & Red Paprika with our spicy Peri Peri Sauce\n*Contains non-edible container under the Pizza.",
+      "regular_price": 359.0,
+      "veg_status": "Non-Veg",
+      "crust": "Cheese Volcano Crust",
+      "size": "Regular Plus",
+      "striked_price": null,
+      "categories": [
+        "New Launches"
+      ]
+    },
+    {
+      "name": "Blazing Onion & Paprika",
+      "description": "Hot & spicy pizza with onion & red paprika toppings and a new spicy peri peri sauce on a Domino's cheesy base..",
+      "regular_price": 199.0,
+      "veg_status": "Veg",
+      "crust": "New Hand Tossed",
+      "size": "Regular",
+      "striked_price": null,
+      "categories": [
+        "New Launches"
+      ]
+    },
+    {
+      "name": "Fiery Jalapeno & Paprika",
+      "description": "Spiciest veg pizza with jalapeno & red paprika toppings and a new spicy peri peri sauce..",
+      "regular_price": 199.0,
+      "veg_status": "Veg",
+      "crust": "New Hand Tossed",
+      "size": "Regular",
+      "striked_price": null,
+      "categories": [
+        "New Launches"
+      ]
+    },
+    {
+      "name": "Blazing Chicken & Paprika",
+      "description": "Hot & spicy chicken pizza with a combination of chicken keema & red paprika toppings and a new spicy peri peri sauce..",
+      "regular_price": 269.0,
+      "veg_status": "Non-Veg",
+      "crust": "New Hand Tossed",
+      "size": "Regular",
+      "striked_price": null,
+      "categories": [
+        "New Launches"
+      ]
+    },
+    {
+      "name": "Fiery Sausage & Paprika",
+      "description": "Spiciest non veg pizza with spicy & herby chicken sausage and red paprika toppings on a new spicy peri peri sauce base..",
+      "regular_price": 269.0,
+      "veg_status": "Non-Veg",
+      "crust": "New Hand Tossed",
+      "size": "Regular",
+      "striked_price": null,
+      "categories": [
+        "New Launches"
+      ]
+    },
+    {
+      "name": "Work from Home Non Veg Treat",
+      "description": "Reg Chicken Sausage Pizza + Coke.",
+      "regular_price": 239.0,
+      "veg_status": "Non-Veg",
+      "crust": null,
+      "size": null,
+      "striked_price": 266.0,
+      "categories": [
+        "Meal for 1"
+      ]
+    },
+    {
+      "name": "Work from Home Veg Treat",
+      "description": "Reg Cheese & Corn Pizza + Coke.",
+      "regular_price": 239.0,
+      "veg_status": "Veg",
+      "crust": null,
+      "size": null,
+      "striked_price": 266.0,
+      "categories": [
+        "Meal for 1"
+      ]
+    },
+    {
+      "name": "Family House Party – Veg Deluxe Combo",
+      "description": "Large Veg Extravaganza Pizza + 2 Garlic Bread + 4 Choco lava cake + 2 Pepsi.",
+      "regular_price": 1459.0,
+      "veg_status": "Veg",
+      "crust": null,
+      "size": null,
+      "striked_price": 1567.0,
+      "categories": [
+        "Party Combos"
+      ]
+    },
+    {
+      "name": "Paneer Spice Supreme",
+      "description": "Loaded with Paneer, Red Paprika, Olives and Jalapeno; The Best a No Onion No Garlic Pizza can get!.",
+      "regular_price": 299.0,
+      "veg_status": "Veg",
+      "crust": "New Hand Tossed",
+      "size": "Regular",
+      "striked_price": null,
+      "categories": [
+        "No Onion No Garlic"
+      ]
+    },
+    {
+      "name": "Peppy Paneer",
+      "description": "Molten Cheese Indulgence with Flavorful trio of juicy paneer, crisp capsicum & spicy red paprika.",
+      "regular_price": 348.0,
+      "veg_status": "Veg",
+      "crust": "Cheese Burst",
+      "size": "Regular",
+      "striked_price": null,
+      "categories": [
+        "Cheese Burst Pizza"
+      ]
+    },
+    {
+      "name": "Farmhouse",
+      "description": "Delightful combination of onion, capsicum, tomato & grilled mushroom.",
+      "regular_price": 338.0,
+      "veg_status": "Veg",
+      "crust": "Cheese Burst",
+      "size": "Regular",
+      "striked_price": null,
+      "categories": [
+        "Cheese Burst Pizza"
+      ]
+    },
+    {
+      "name": "Veggie Paradise",
+      "description": "Molten Cheese Indulgence with Golden corn, black olives, capsicum & red paprika.",
+      "regular_price": 348.0,
+      "veg_status": "Veg",
+      "crust": "Cheese Burst",
+      "size": "Regular",
+      "striked_price": null,
+      "categories": [
+        "Cheese Burst Pizza"
+      ]
+    },
+    {
+      "name": "Margherita",
+      "description": "Molten Cheese Indulgence with delight of 100% real mozzarella cheese.",
+      "regular_price": 188.0,
+      "veg_status": "Veg",
+      "crust": "Cheese Burst",
+      "size": "Regular",
+      "striked_price": null,
+      "categories": [
+        "Cheese Burst Pizza"
+      ]
+    },
+    {
+      "name": "Spiced Double Chicken Pizza",
+      "description": "Molten Cheese Indulgence with combination of Pepper Barbecue Chicken & Peri Peri Chicken for Chicken lovers.",
+      "regular_price": 408.0,
+      "veg_status": "Non-Veg",
+      "crust": "Cheese Burst",
+      "size": "Regular",
+      "striked_price": null,
+      "categories": [
+        "Cheese Burst Pizza"
+      ]
+    },
+    {
+      "name": "Mexican Green Wave",
+      "description": "Molten Cheese Indulgence with Mexican herbs sprinkled on onion, capsicum, tomato & jalapeno.",
+      "regular_price": 348.0,
+      "veg_status": "Veg",
+      "crust": "Cheese Burst",
+      "size": "Regular",
+      "striked_price": null,
+      "categories": [
+        "Cheese Burst Pizza"
+      ]
+    },
+    {
+      "name": "Pepper Barbecue Chicken",
+      "description": "Molten Cheese Indulgence with Pepper Barbecue chicken for that extra zing.",
+      "regular_price": 328.0,
+      "veg_status": "Non-Veg",
+      "crust": "Cheese Burst",
+      "size": "Regular",
+      "striked_price": null,
+      "categories": [
+        "Cheese Burst Pizza"
+      ]
+    },
+    {
+      "name": "Indi Tandoori Paneer",
+      "description": "Molten Cheese Indulgence with spicy tandoori paneer, capsicum, red paprika & mint mayo.",
+      "regular_price": 398.0,
+      "veg_status": "Veg",
+      "crust": "Cheese Burst",
+      "size": "Regular",
+      "striked_price": null,
+      "categories": [
+        "Cheese Burst Pizza"
+      ]
+    },
+    {
+      "name": "Indi Chicken Tikka",
+      "description": "Molten Cheese Indulgence with wholesome flavour of tandoori masala topped with Chicken tikka, onion, red paprika & mint mayo.",
+      "regular_price": 468.0,
+      "veg_status": "Non-Veg",
+      "crust": "Cheese Burst",
+      "size": "Regular",
+      "striked_price": null,
+      "categories": [
+        "Cheese Burst Pizza"
+      ]
+    },
+    {
+      "name": "Double Cheese Margherita",
+      "description": "Molten Cheese Indulgence with loaded delight of 100% real mozzarella cheese.",
+      "regular_price": 288.0,
+      "veg_status": "Veg",
+      "crust": "Cheese Burst",
+      "size": "Regular",
+      "striked_price": null,
+      "categories": [
+        "Cheese Burst Pizza"
+      ]
+    },
+    {
+      "name": "Cheese n Corn",
+      "description": "Molten Cheese Indulgence with a delectable combination of sweet & juicy golden corn.",
+      "regular_price": 288.0,
+      "veg_status": "Veg",
+      "crust": "Cheese Burst",
+      "size": "Regular",
+      "striked_price": null,
+      "categories": [
+        "Cheese Burst Pizza"
+      ]
+    },
+    {
+      "name": "Chicken Golden Delight",
+      "description": "Molten Cheese Indulgence with Double pepper Barbecue chicken, golden corn and extra cheese.",
+      "regular_price": 388.0,
+      "veg_status": "Non-Veg",
+      "crust": "Cheese Burst",
+      "size": "Regular",
+      "striked_price": null,
+      "categories": [
+        "Cheese Burst Pizza"
+      ]
+    },
+    {
+      "name": "Chicken Fiesta",
+      "description": "Molten Cheese Indulgence with Grilled chicken rashers, peri-peri chicken, onion & capsicum.",
+      "regular_price": 418.0,
+      "veg_status": "Non-Veg",
+      "crust": "Cheese Burst",
+      "size": "Regular",
+      "striked_price": null,
+      "categories": [
+        "Cheese Burst Pizza"
+      ]
+    },
+    {
+      "name": "Fresh Veggie",
+      "description": "Molten Cheese Indulgence with combination of onion & capsicum.",
+      "regular_price": 298.0,
+      "veg_status": "Veg",
+      "crust": "Cheese Burst",
+      "size": "Regular",
+      "striked_price": null,
+      "categories": [
+        "Cheese Burst Pizza"
+      ]
+    },
+    {
+      "name": "Chicken Pepperoni",
+      "description": "Molten Cheese Indulgence with American classic flavored Chicken Pepperoni, topped with extra cheese.",
+      "regular_price": 458.0,
+      "veg_status": "Non-Veg",
+      "crust": "Cheese Burst",
+      "size": "Regular",
+      "striked_price": null,
+      "categories": [
+        "Cheese Burst Pizza"
+      ]
+    },
+    {
+      "name": "Achari Do Pyaza",
+      "description": "Molten Cheese Indulgence with tangy & spicy achari flavours on a super cheesy onion pizza.",
+      "regular_price": 278.0,
+      "veg_status": "Veg",
+      "crust": "Cheese Burst",
+      "size": "Regular",
+      "striked_price": null,
+      "categories": [
+        "Cheese Burst Pizza"
+      ]
+    },
+    {
+      "name": "The 5 Chicken Feast Cheese Burst",
+      "description": "Molten Cheese Indulgence Loaded with 5 different Chicken toppings - grilled Chicken Rashers, Chicken MeatBalls, Chicken Tikka, herby Chicken Sausage & Chicken Keema.",
+      "regular_price": 478.0,
+      "veg_status": "Non-Veg",
+      "crust": "Cheese Burst",
+      "size": "Regular",
+      "striked_price": null,
+      "categories": [
+        "Cheese Burst Pizza"
+      ]
+    },
+    {
+      "name": "Chicken Sausage",
+      "description": "Molten Cheese Indulgence with American classic herbed chicken sausage.",
+      "regular_price": 288.0,
+      "veg_status": "Non-Veg",
+      "crust": "Cheese Burst",
+      "size": "Regular",
+      "striked_price": null,
+      "categories": [
+        "Cheese Burst Pizza"
+      ]
+    },
+    {
+      "name": "Fiery Jalapeno & Paprika Pizza",
+      "description": "Molten Cheese Indulgence with jalapeno & red paprika toppings along with spicy peri peri sauce.",
+      "regular_price": 278.0,
+      "veg_status": "Veg",
+      "crust": "Cheese Burst",
+      "size": "Regular",
+      "striked_price": null,
+      "categories": [
+        "Cheese Burst Pizza"
+      ]
+    },
+    {
+      "name": "Fiery Sausage & Paprika Pizza",
+      "description": "Molten Cheese Indulgence with spicy & herby chicken sausage and red paprika toppings along with spicy peri peri sauce.",
+      "regular_price": 348.0,
+      "veg_status": "Non-Veg",
+      "crust": "Cheese Burst",
+      "size": "Regular",
+      "striked_price": null,
+      "categories": [
+        "Cheese Burst Pizza"
+      ]
+    },
+    {
+      "name": "Blazing Onion & Paprika Pizza",
+      "description": "Molten Cheese Indulgence with onion & red paprika toppings along with spicy peri peri sauce.",
+      "regular_price": 278.0,
+      "veg_status": "Veg",
+      "crust": "Cheese Burst",
+      "size": "Regular",
+      "striked_price": null,
+      "categories": [
+        "Cheese Burst Pizza"
+      ]
+    },
+    {
+      "name": "Blazing Chicken & Paprika Pizza",
+      "description": "Molten Cheese Indulgence with a combination of chicken keema & red paprika toppings along with spicy peri peri sauce.",
+      "regular_price": 348.0,
+      "veg_status": "Non-Veg",
+      "crust": "Cheese Burst",
+      "size": "Regular",
+      "striked_price": null,
+      "categories": [
+        "Cheese Burst Pizza"
+      ]
+    },
+    {
+      "name": "Blazing Onion & Paprika",
+      "description": "Hot & spicy pizza with onion & red paprika toppings and a new spicy peri peri sauce on a Domino's cheesy base..",
+      "regular_price": 199.0,
+      "veg_status": "Veg",
+      "crust": "New Hand Tossed",
+      "size": "Regular",
+      "striked_price": null,
+      "categories": [
+        "Spicy Pizza"
+      ]
+    },
+    {
+      "name": "Fiery Jalapeno & Paprika",
+      "description": "Spiciest veg pizza with jalapeno & red paprika toppings and a new spicy peri peri sauce..",
+      "regular_price": 199.0,
+      "veg_status": "Veg",
+      "crust": "New Hand Tossed",
+      "size": "Regular",
+      "striked_price": null,
+      "categories": [
+        "Spicy Pizza"
+      ]
+    },
+    {
+      "name": "Peppy Paneer",
+      "description": "Flavorful trio of juicy paneer, crisp capsicum with spicy red paprika.",
+      "regular_price": 269.0,
+      "veg_status": "Veg",
+      "crust": "New Hand Tossed",
+      "size": "Regular",
+      "striked_price": null,
+      "categories": [
+        "Spicy Pizza"
+      ]
+    },
+    {
+      "name": "Pepper Barbecue Chicken",
+      "description": "Pepper barbecue chicken for that extra zing.",
+      "regular_price": 249.0,
+      "veg_status": "Non-Veg",
+      "crust": "New Hand Tossed",
+      "size": "Regular",
+      "striked_price": null,
+      "categories": [
+        "Spicy Pizza"
+      ]
+    },
+    {
+      "name": "Blazing Chicken & Paprika",
+      "description": "Hot & spicy chicken pizza with a combination of chicken keema & red paprika toppings and a new spicy peri peri sauce..",
+      "regular_price": 269.0,
+      "veg_status": "Non-Veg",
+      "crust": "New Hand Tossed",
+      "size": "Regular",
+      "striked_price": null,
+      "categories": [
+        "Spicy Pizza"
+      ]
+    },
+    {
+      "name": "Fiery Sausage & Paprika",
+      "description": "Spiciest non veg pizza with spicy & herby chicken sausage and red paprika toppings on a new spicy peri peri sauce base..",
+      "regular_price": 269.0,
+      "veg_status": "Non-Veg",
+      "crust": "New Hand Tossed",
+      "size": "Regular",
+      "striked_price": null,
+      "categories": [
+        "Spicy Pizza"
+      ]
+    },
+    {
+      "name": "Spiced Double Chicken",
+      "description": "Delightful combination of our spicy duo- Pepper Barbecue Chicken and Peri Peri Chicken for Chicken Lovers..",
+      "regular_price": 329.0,
+      "veg_status": "Non-Veg",
+      "crust": "New Hand Tossed",
+      "size": "Regular",
+      "striked_price": null,
+      "categories": [
+        "Spicy Pizza"
+      ]
+    }
+  ]
+}
