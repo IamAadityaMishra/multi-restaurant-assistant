@@ -115,8 +115,8 @@ multi-restaurant-assistant/
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 👥 Contributors
-
-- [Your Name](https://github.com/IamAadityaMishra)
+Aaditya Mishra 
+(https://github.com/IamAadityaMishra)
 
 ## 🙏 Acknowledgements
 
